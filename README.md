@@ -1,2 +1,3 @@
 # Stock-Revenue-Data-and-Building-a-Dashboard
-bruh
+
+Lab for coursera
